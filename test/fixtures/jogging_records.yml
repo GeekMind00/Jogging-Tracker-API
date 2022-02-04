@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2022-01-29
+  distance: 1
+  time: 2022-01-29 20:21:45
+  references: 
+
+two:
+  date: 2022-01-29
+  distance: 1
+  time: 2022-01-29 20:21:45
+  references: 

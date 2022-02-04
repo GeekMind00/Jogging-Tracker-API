@@ -1,4 +1,4 @@
-# Jogging Tracker API
+# Jogging-Tracker-API
 
 ## About The Project
 > Jogging-Tracker-API is a RESTful API that tracks jogging times of users.
@@ -80,4 +80,4 @@ $ rails server
 
 
 
-# Jogging-Tracker-API
+
